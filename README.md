@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Charles.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m a Junior .Net Developer.
